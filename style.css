@@ -1,5 +1,5 @@
 .head {
-    color: red;
+    color: orangered;
     font-family: Tahoma, sans-serif;
     text-align: center;
     background-color: darkgray;
@@ -10,14 +10,14 @@
     max-height: 400px;
 }
 
-.chennai {
-    color: blue;
+.gun {
+    color: orangered;
     font-family: Tahoma, sans-serif;
     font-style: italic;
 }
 
-.gun {
-    color: orangered;
+.chen {
+    color: blue;
     font-family: Tahoma, sans-serif;
     font-style: italic;
 }
